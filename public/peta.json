@@ -1,0 +1,49 @@
+{
+    "places": [
+        {
+            "lokasi": [
+                1.123568,
+                104.016687
+            ],
+            "sponsor": "RS AWAL BROS",
+            "gambar": "http://cdn2.tstatic.net/tribunnews/foto/bank/images/rs-awal-bros-bekasi_20171013_133430.jpg",
+            "review": "rs awal bros rumah sakit dekat perumahanan casablaca."
+        },
+        {
+            "lokasi": [
+                1.129712,
+                103.930485
+            ],
+            "sponsor": "RS BUDI KEMULIAAN",
+            "gambar": "http://detikglobalnews.com/wp-content/uploads/2017/04/foto-rumah-sakit-otorita-Batam-692x360.jpg",
+            "review": "rs otorita batam ini sangat jauh yang terletak di tanjung uncang."
+        },
+        {
+            "lokasi": [
+                1.147749,
+                104.016474
+            ],
+            "sponsor": "RS OTORITA BATAM",
+            "gambar": "https://suprizaltanjung.files.wordpress.com/2018/01/rshb-sabtu-20-januari-2018-f-suprizal-tanjung-16-ok-image.jpg",
+            "review": "rs harapan bunda yang terletak di nagoya."
+        },
+        {
+            "lokasi": [
+               1.147605,
+                104.018890
+            ],
+            "sponsor": "RS HARAPAN BUNDA",
+            "gambar": "http://mw2.google.com/mw-panoramio/photos/medium/28704296.jpg",
+            "review": "dekat juga dengan rs harapan bunda dan rs ini terletak di nagoya"
+        },
+        {
+            "lokasi": [
+               1.135679,
+                104.015629
+            ],
+            "sponsor": "RS BUDI KEMULIAAN",
+            "gambar": "https://www.garnesia.com/images/vendor/5598_bef77d0957a6ed96ce9bbf35f5becb51.jpg",
+            "review": "rs santa elisabeth yang terletak di batam center"
+        }
+    ]
+}
